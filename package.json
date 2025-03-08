@@ -16,7 +16,7 @@
     "global": "^4.4.0",
     "javascript-barcode-reader": "^0.6.8",
     "mysql": "^2.18.1",
-    "pm2": "^4.4.0",
+    "pm2": "^5.4.3",
     "quagga": "^0.12.1",
     "react": "^16.8.6",
     "react-device-detect": "^1.11.14",
